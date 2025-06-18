@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I’m Suman Kumar 
 
-<!--
-**SumanKumar18/SumanKumar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Developer | Python • Flask • SQLite • MySQL  
+🛠️ Building real-world apps and deploying them live  
+📍 Based in Chennai | Open to Full-Time SDE Roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 Student Record Manager – Flask Web App
+• A full-stack student CRUD app using Flask + SQLite  
+• Styled with Bootstrap, deployed on Render  
+🔗 [Live App](https://student-crud-flask.onrender.com)  
+📁 [GitHub Repo](https://github.com/SumanKumar18/Student-crud-flask)
+
+### 🔹 Student Manager – Python CLI + MySQL
+• Terminal-based CRUD project built with Python and MySQL  
+📁 [GitHub Repo](https://github.com/SumanKumar18/Student-crud)
+
+---
+
+## 💡 What I Use
+- 💻 Python, Flask, MySQL, SQLite
+- 🎨 HTML, CSS, Bootstrap 5
+- ☁️ Render (for hosting)
+- 📂 Git & GitHub
+
+---
+
+## 📫 Contact Me
+📧 Email: sumankjv@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
+💻 [GitHub](https://github.com/SumanKumar18)
+
+---
+
+### “Code. Deploy. Repeat.”
