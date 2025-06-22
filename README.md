@@ -28,11 +28,14 @@
 
 ---
 
-## 📫 Contact Me
-📧 Email: sumankjv@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
-💻 [GitHub](https://github.com/SumanKumar18)
-[Portfolio].(https://sumankumar18.github.io/Portfolio/)
+## 📫 Contact Me 
+
+
+- 📧 Email: [sumankjv@gmail.com](mailto:sumankjv@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sumank18)
+- 🐙 [GitHub](https://github.com/SumanKumar18)
+- 🌐 [Portfolio](https://sumankumar18.github.io/Portfolio/)
+
 
 ---
 
